@@ -12,3 +12,4 @@
 | [OLTP와 OLAP](OLTP와-OLAP.md) | MoniMonitor | 2026-09-03 |
 | [Kafka 아는척하기](Kafka-아는척하기.md) | MSA Kafka | 2026-09-03 |
 | [카산드라 기초](카산드라-기초.md) | Cassandra | 2026-09-07 |
+| [Kafka 아는척하기2 (프로듀서)](Kafka-아는척하기2-프로듀서.md) | MSA Kafka | 2026-09-07 |
