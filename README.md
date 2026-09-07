@@ -5,4 +5,4 @@
 ## 목차
 
 - [**Kevin's 숙제**](Kevin's%20숙제/README.md) — DB 내부 동작 심화 정리 시리즈 (인덱스·옵티마이저·트랜잭션 격리·Lock 등). Notion에서 미러링.
-- [**팀프로젝트 공부**](팀프로젝트%20공부/README.md) — 팀프로젝트(Shelfeed·MoniMonitor·MSA Kafka)를 하며 정리한 CS·아키텍처 노트. Notion에서 미러링.
+- [**팀프로젝트 공부**](팀프로젝트%20공부/README.md) — 팀프로젝트(Shelfeed·MoniMonitor·MSA Kafka·Cassandra)를 하며 정리한 CS·아키텍처 노트. Notion에서 미러링.
