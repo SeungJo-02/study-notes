@@ -14,3 +14,4 @@
 | [카산드라 기초](카산드라-기초.md) | Cassandra | 2026-09-07 |
 | [Kafka 아는척하기2 (프로듀서)](Kafka-아는척하기2-프로듀서.md) | MSA Kafka | 2026-09-07 |
 | [Kafka 아는척하기3 (컨슈머)](Kafka-아는척하기3-컨슈머.md) | MSA Kafka | 2026-09-08 |
+| [왜 이렇게 설계했는가? — ClickHouse 선택 근거](왜-이렇게-설계했는가-ClickHouse-선택.md) | MoniMonitor | 2026-09-09 |
