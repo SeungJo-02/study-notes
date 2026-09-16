@@ -17,3 +17,4 @@
 | [핀포인트 플러그인과 트레이스 구조](핀포인트-플러그인과-트레이스-구조.md) | MoniMonitor | 2026-09-04 |
 | [왜 이렇게 설계했는가? — ClickHouse 선택 근거](왜-이렇게-설계했는가-ClickHouse-선택.md) | MoniMonitor | 2026-09-09 |
 | [CDC와 OUTBOX](CDC와-OUTBOX.md) | 기타 | 2026-09-15 |
+| [2PC와 SAGA](2PC와-SAGA.md) | 기타 | 2026-09-14 |
